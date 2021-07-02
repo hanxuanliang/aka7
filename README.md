@@ -14,4 +14,4 @@
 
 > clickhouse 20.8.7
 
-1. [](./clickhouse/build.md)
+1. [源码构建准备](./clickhouse/build.md)
