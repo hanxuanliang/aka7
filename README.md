@@ -20,4 +20,5 @@
 
 ### 翻译文章
 
-- [「Clickhouse Array 的力量」1](./clickhouse/clickhouse_array_1.1.md)
+- [「Clickhouse Array 的力量」1](./clickhouse/clickhouse_array_1.md)：针对基本用法，以及 Array Join 用法
+- [「Clickhouse Array 的力量」2](./clickhouse/clickhouse_array_2.md)：针对 GroupArray，以及 funnels 用法
