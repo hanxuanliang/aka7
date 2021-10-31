@@ -14,4 +14,10 @@
 
 > clickhouse 20.8.7
 
+### 源码研究
+
 1. [源码构建准备](./clickhouse/build.md)
+
+### 翻译文章
+
+- [「Clickhouse Array 的力量」1](./clickhouse/clickhouse_array_1.1.md)
